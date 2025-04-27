@@ -13,7 +13,7 @@ const CrescentParfums = () => {
   }, []);
 
   return (
-    <div className="relative h-screen w-full overflow-hidden bg-stone-100">
+    <div className="relative h-[100dvh] w-full overflow-hidden bg-stone-100">
       {/* Background Video */}
 
       <video 
