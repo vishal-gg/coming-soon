@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Jaro:opsz@6..72&family=Rajdhani:wght@300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.PaRa{
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 500; 
+    font-style: italic;
+  }
+
+  @font-face {
+    font-family: 'Carla Sans';
+    src: url('/Assets/carla-sans-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  .tagg {
+    font-family: 'Carla Sans', sans-serif;
+  }
+  
